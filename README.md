@@ -5,6 +5,7 @@ CURSO EN CLOUD COMPUTING CON AWS Y AZURE
 ## Resources
 - [Introduction to Microsoft Azure](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 - [AWS Cloud Practitioner Essentials (Español LATAM)](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-espaol-latam/RX7XZB6CTM)
+- [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
 ## Acerca de este curso
 - [Programa del curso](./docs/00%20Programa%20Curso%20Cloud%20Computing%20en%20Azure%20y%20AWS1.pdf)
