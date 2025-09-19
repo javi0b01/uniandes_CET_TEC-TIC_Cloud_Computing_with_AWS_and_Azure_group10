@@ -7,6 +7,10 @@ CURSO EN CLOUD COMPUTING CON AWS Y AZURE
 - [AWS Cloud Practitioner Essentials (Español LATAM)](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-espaol-latam/RX7XZB6CTM)
 - [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
+- [Microsoft Entra External ID](https://learn.microsoft.com/en-us/entra/external-id/)
+- [Microsoft Entra External ID training, live demo, and videos](https://learn.microsoft.com/en-us/entra/external-id/customers/reference-training-videos#visit-our-video-library)
+- [Woodgrove Groceries demo](https://woodgrovedemo.com/)
+
 ## Acerca de este curso
 - [Programa del curso](./docs/00%20Programa%20Curso%20Cloud%20Computing%20en%20Azure%20y%20AWS1.pdf)
 - [Introducción del curso](./docs/01%20Introducción.pdf)
