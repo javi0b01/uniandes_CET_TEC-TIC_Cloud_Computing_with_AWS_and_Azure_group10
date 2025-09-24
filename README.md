@@ -51,6 +51,7 @@ Administración y la gobernanza.
 Soluciones de bases de datos.
 - [Fundamentos de Datos en la Nube (Azure)](./docs/18%20M4-Bases%20de%20datos%20Azure.pptx)
 - [Fundamentos de Datos en la nube (AWS)](./docs/19%20M4-Bases%20de%20datos%20AWS.pptx)
+- [Actividad Dynamodb](./docs/20%20actividad_dynamodb.pdf)
 
 ## Módulo 5
 Introducción a la automatización y DevOps.
