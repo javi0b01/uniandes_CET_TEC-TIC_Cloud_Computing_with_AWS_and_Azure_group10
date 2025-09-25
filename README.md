@@ -55,6 +55,7 @@ Soluciones de bases de datos.
 
 ## Módulo 5
 Introducción a la automatización y DevOps.
+- [Introducción a DevOps AWS](./docs/21%20M5-Introducción%20a%20DevOps%20AWS.pptx)
 
 ## Software Developer
 Built by [javi](https://github.com/javi0b01) :copyright: 2025  
